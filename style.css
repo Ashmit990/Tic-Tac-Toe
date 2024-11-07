@@ -53,6 +53,10 @@ body{
     align-items: center;
     border: none;
     outline: none;
+    transition: 0.3s ease;
+}
+.game-type:hover{
+  transform: scale(1.05);
 }
 .game-type-container .dot{
     border: 0.5px solid white;
@@ -83,6 +87,10 @@ body{
     outline: none;
     font-size: 37px;
     cursor: pointer;
+    transition: 0.3s ease;
+}
+.start-btn:hover{
+  transform: scale(1.05);
 }
 .game-container-ai{
     background-color: #212931;
