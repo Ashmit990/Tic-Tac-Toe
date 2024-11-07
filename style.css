@@ -4,7 +4,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Permanent Marker", cursive;
+  font-family: "Itim",cursive;
 }
 body{
     background-color: #040C1A;
@@ -14,10 +14,9 @@ body{
     text-align: center;
     color: #00D9FF;
     margin-top: 10px;
-    font-family: "Itim",cursive;
 }
 .popup-container{
-    background-color: #635F52;
+    background-color: #353939;
     width: 325px;
     height: 155px;
     margin: 20px auto;
@@ -45,8 +44,8 @@ body{
     width: 150px;
     height: 60px;
     border-radius: 50px;
-    background-color: #342D23;
-    color: #FFF600;
+    background-color: #202428;
+    color: #BDE2E8;
     font-size: 25px;
     display: flex;
     justify-content: center;
@@ -81,8 +80,8 @@ body{
     width: 140px;
     height: 60px;
     border-radius: 50px;
-    background-color: #3a3a26;
-    color: lime;
+    background-color: #202428;
+    color: #BDE2E8;
     border: none;
     outline: none;
     font-size: 37px;
@@ -109,7 +108,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 50px;
+    font-size: 65px;
     color: #FFF600;
     cursor: pointer;
     transition: 0.5s ease;
@@ -142,7 +141,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 50px;
+    font-size: 65px;
     color: #FFF600;
     cursor: pointer;
     transition: 0.5s ease;
@@ -198,8 +197,8 @@ body{
   .popup-content .ok-btn{
     width: 150px;
     height: 60px;
-    background-color: #635F52;
-    color: #FFF600;
+    background-color: #202428;
+    color: #BDE2E8;
     border-radius: 30px;
     border: none;
     outline: none;
@@ -214,8 +213,8 @@ body{
   .popup-content .play-other{
     width: 160px;
     height: 70px;
-    background-color: #635F52;
-    color: #FFF600;
+    background-color: #202428;
+    color: #BDE2E8;
     border-radius: 30px;
     border: none;
     outline: none;
@@ -267,8 +266,8 @@ body{
   .popup-content-person .ok-btn-person{
     width: 150px;
     height: 60px;
-    background-color: #635F52;
-    color: #FFF600;
+    background-color: #202428;
+    color: #BDE2E8;
     border-radius: 30px;
     border: none;
     outline: none;
@@ -283,8 +282,8 @@ body{
   .popup-content-person .play-other-person{
     width: 160px;
     height: 70px;
-    background-color: #635F52;
-    color: #FFF600;
+    background-color: #202428;
+    color: #BDE2E8;
     border-radius: 30px;
     border: none;
     outline: none;
